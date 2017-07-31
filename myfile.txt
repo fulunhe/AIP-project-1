@@ -1,2 +1,4 @@
 once upon a time
-This is a new line added online...
+This is a new line added online.
+This is the thrid line, added locally. At stage 3. Ready to push to github.com 
+again.
